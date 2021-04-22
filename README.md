@@ -1,7 +1,8 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> Welcome!
+### Hi there!<img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="100px"></a> 
+### Welcome!
 
 Some facts about me:
-- My name is Aleksandr!
+-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"></a> My name is Aleksandr!
 - :ru: I’m begginer Java Developer from Saint-Petersburg.
 - 🌱 I’m currently learning Java at [Job4j](https://job4j.ru/) :coffee:
 - 
