@@ -1,5 +1,5 @@
-### Hi there!<img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="100px"></a> 
-### Welcome!
+### Hi there! Welcome! <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="100px"></a>
+
 
 Some facts about me:
 - <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"></a> My name is Aleksandr!
