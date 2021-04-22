@@ -2,11 +2,11 @@
 ### Welcome!
 
 Some facts about me:
--  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"></a> My name is Aleksandr!
+- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"></a> My name is Aleksandr!
 - :ru: I’m begginer Java Developer from Saint-Petersburg.
 - 🌱 I’m currently learning Java at [Job4j](https://job4j.ru/) :coffee:
-- 
-- ⚡ Fun fact: I :heart: my :baby: Aleksandra
+- Here is my study projects: &nbsp;[![alt-text](https://img.shields.io/badge/-github-24292E?style=plastic&logo=github&logoColor=white)](https://github.com/AJIEKCanderG?tab=repositories)&nbsp;&nbsp;
+- ⚡ Fun fact:  I :heart: my :baby: Aleksandra
 
 
 
