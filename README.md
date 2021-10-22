@@ -14,6 +14,7 @@ Some facts about me:
 <h4> 📫  You can find me here:</h4>
 
 [![alt-text](https://img.shields.io/badge/-Linkedin-0A66C2?style=plastic&logolinkedin&logoColor=white)](https://www.linkedin.com/in/ajiekcanderg/)&nbsp;&nbsp;
+[![alt-text](https://img.shields.io/badge/-Codewars-red?style=plastic&logo=сodewars&logoColor=white)](https://www.codewars.com/users/AJIEKCanderG/)&nbsp;&nbsp;
 [![alt-text](https://img.shields.io/badge/-LeetCode-FCA313?style=plastic&logo=LeetCode&logoColor=black)](https://leetcode.com/AJIEKCanderG/)&nbsp;&nbsp;
 [![alt-text](https://img.shields.io/badge/-telegram-grey?style=plastic&logo=telegram&logoColor=white)](https://t.me/AJIEKCanderG)&nbsp;&nbsp;
 [![alt-text](https://img.shields.io/badge/@%20email-0067B6?style=plastic&logo=mail&logoColor=white)](mailto:sanya.spb_vohta@mail.ru)&nbsp;&nbsp;
